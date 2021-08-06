@@ -1,4 +1,4 @@
-# P4-Identifying-Fraudulent-Activities
+# Identifying-Fraudulent-Activities
 
 Company XYZ is an e-commerce site that sells hand-made clothes.
 You have to build a model that predicts whether a user has a high probability of using the site to
